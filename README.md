@@ -62,7 +62,7 @@ git push using the upstream repository with the branch main.
 - Encountered an error while pushing changes due to differences in local and remote repositories:- Encountered an error while pushing changes due to differences in local and remote repositories:
 
 **The Error Message**
-error: did not manage to force-update some refs to ‘https://github. com/Chilundika/PLPBasicGitAssignment. git’
+error: did not manage to force-update some refs to ‘https://github.com/Chilundika/PLPBasicGitAssignment.git’
 hint: They stated that updates were rejected because the remote contains work that you do not want.
 hint: have locally. This is usually as a result of another repository pulling on it or pushing into it;
 hint: the same ref. Using this, you can integrate the changes done on the remote branch, which is,
